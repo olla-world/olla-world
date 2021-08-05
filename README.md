@@ -7,12 +7,14 @@ Hello World, **I'm Arafat Ahmed** - aka **Frontend Engineer 👋**
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-
+- :mailbox: arafat.csedu.57@gmail.com
 ---
 
 ### Talk with me:
 [<img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
+
+---
 
 ### Languages and Tools:
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
