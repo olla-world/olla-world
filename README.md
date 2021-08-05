@@ -1,4 +1,4 @@
-Hello World, **I'm Arafat Ahmed** - aka **Frontend Engineer 👋**
+Hi, **I'm Arafat Ahmed** - aka **Frontend Engineer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">**
 
  <img align="center" alt="GIF" src="https://github.com/olla-world/olla-world/blob/main/me.gif?raw=true" width="230" height="180" />
 
