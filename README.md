@@ -12,8 +12,7 @@ Hello World, **I'm Arafat Ahmed** - aka **Frontend Engineer 👋**
 
 ### Talk with me:
 [<img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img alt="gmail" src="https://https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-"/>][gmail]
+[<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
 ### Languages and Tools:
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
