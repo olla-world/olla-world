@@ -1,10 +1,17 @@
 Hello World, **I'm Arafat Ahmed** - aka **Frontend Engineer 👋**
 
  <img align="center" alt="GIF" src="https://github.com/olla-world/olla-world/blob/main/me.gif?raw=true" width="230" height="180" />
+
  
 **I'm a Husband, Engineer, Painter, Mentor!!** 
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: He/Him
+
+---
 
 ### Talk with me, I am kinda awesome:
+[<img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 ### Languages and Tools:
 <img align="left" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -28,3 +35,4 @@ Hello World, **I'm Arafat Ahmed** - aka **Frontend Engineer 👋**
 <img align="left" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+[linkedin]: https://www.linkedin.com/in/arafatahmed/
