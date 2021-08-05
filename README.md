@@ -4,11 +4,15 @@ Hello World, **I'm Arafat Ahmed** - aka **Frontend Engineer 👋**
 
  
 **A Husband, Engineer, Painter, Mentor!!** 
+<br/>
+[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>][linkedin]
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/>][gmail]
 ---
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- :mailbox: arafat.csedu.57@gmail.com
+- 📫 arafat.csedu.57@gmail.com
+- ✍️ My recent article [Create a PWA using React.JS](https://medium.com/@arafatahmedtanimcsedu57/progressive-web-apps-with-create-react-app-ca0c955ab798)
 
 > :sparkles: Currently, I am attending a _programming and data structure course_. [Here](https://pattho-dhara.web.app/) you will find what I have learned yet
 
@@ -33,13 +37,6 @@ Hello World, **I'm Arafat Ahmed** - aka **Frontend Engineer 👋**
 <img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img align="left" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-### Blog:
-- [Create a PWA in React.JS](https://medium.com/@arafatahmedtanimcsedu57)
-
-### Talk with me:
-[<img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
 [linkedin]: https://www.linkedin.com/in/arafatahmed/
 [gmail]: mailto:arafat.csedu.57@gmail.com
