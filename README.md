@@ -8,7 +8,7 @@ Hello World, **I'm Arafat Ahmed** - aka **Frontend Engineer 👋**
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/>][linkedin]
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/>][gmail]
 ---
-- 👯 I’m looking to collaborate on open source
+- 👬 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - 📫 arafat.csedu.57@gmail.com
