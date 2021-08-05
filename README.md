@@ -1,6 +1,6 @@
 Hello World, **I'm Arafat Ahmed** - aka **Frontend Engineer 👋**
 
- <img align="right" alt="GIF" src="https://github.com/olla-world/olla-world/blob/main/coding.gif?raw=true" width="250" height="210" />
+ <img align="right" alt="GIF" src="https://github.com/olla-world/olla-world/blob/main/me_coding.gif?raw=true" width="250" height="210" />
  
 ### I'm a Husband, Engineer, Painter, Mentor!! 
 
