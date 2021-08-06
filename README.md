@@ -1,7 +1,8 @@
 Hi, **I'm Arafat Ahmed** - aka **Frontend Engineer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">**
-
- <img align="center" alt="GIF" src="https://github.com/olla-world/olla-world/blob/main/me.gif?raw=true" width="230" height="180" />
+<br/>
 <img src="https://komarev.com/ghpvc/?username=olla-world&color=brightgreen" alt="watching_count" />
+<br/>
+<img align="center" alt="GIF" src="https://github.com/olla-world/olla-world/blob/main/me.gif?raw=true" width="230" height="180" />
 
 **A Husband, Engineer, Painter, Mentor!!** 
 <br/>
@@ -40,3 +41,5 @@ Hi, **I'm Arafat Ahmed** - aka **Frontend Engineer  <img src="https://media.giph
 
 [linkedin]: https://www.linkedin.com/in/arafatahmed/
 [gmail]: mailto:arafat.csedu.57@gmail.com
+<br/>
+<br/>
