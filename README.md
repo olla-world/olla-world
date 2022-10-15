@@ -22,6 +22,7 @@ Hi, **I'm Arafat Ahmed** - aka **Frontend Engineer  <img src="https://media.giph
 <img align="left" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <imghammer_and_wrench  alt="react-router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img alt = "payload" src="https://img.shields.io/badge/Payload-00000F?style=for-the-badge&logo=Payload&logoColor=white"/>
 <img align="left" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -38,6 +39,7 @@ Hi, **I'm Arafat Ahmed** - aka **Frontend Engineer  <img src="https://media.giph
 <img align="left" alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img align="left" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt = "formio" src="https://img.shields.io/badge/Form.io-1572B6?style=for-the-badge&logo=form.io&logoColor=white"/>
 
 [linkedin]: https://www.linkedin.com/in/arafatahmed/
 [gmail]: mailto:arafat.csedu.57@gmail.com
